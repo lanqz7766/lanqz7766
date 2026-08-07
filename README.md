@@ -45,7 +45,7 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 ## Recent updates
 
-- [2026] Four papers accepted to MICCAI, including two early accepts.
+- [2026] Three papers accepted to MICCAI, including two early accepts.
 - [2026] KnowMeBench accepted to ACL Main as an Oral Presentation.
 - [2026] VIGIL accepted to ECCV.
 - [2026] One paper accepted to *Neural Networks*.
