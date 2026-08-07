@@ -18,7 +18,7 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 ## Recent repositories (not a publication list)
 
-<img src="assets/icons/check-circle.svg" width="17" height="17" alt=""> Selected research releases, codebases, and project pages.
+<img src="assets/icons/check-circle.svg" width="17" height="17" alt=""> Selected codebases, project pages, and recent paper highlights.
 
 <img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[MICCAI 2026]** [DCD-3D-MedSeg](https://github.com/ClinicaAlpha/DCD-3D-MedSeg): Detail-consistent stage-wise distillation for efficient 3D MRI segmentation.<br>
 <a href="https://github.com/ClinicaAlpha/DCD-3D-MedSeg"><img src="https://img.shields.io/badge/Code-DCD--3D--MedSeg-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: DCD-3D-MedSeg"></a>
@@ -27,6 +27,15 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 <img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[MICCAI 2026]** [DPRD-3D-MedSeg](https://github.com/ClinicaAlpha/DPRD-3D-MedSeg): Displacement-preserving relational distillation for robust medical segmentation.<br>
 <a href="https://github.com/ClinicaAlpha/DPRD-3D-MedSeg"><img src="https://img.shields.io/badge/Code-DPRD--3D--MedSeg-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: DPRD-3D-MedSeg"></a>
 <a href="https://github.com/ClinicaAlpha/DPRD-3D-MedSeg/stargazers"><img src="https://img.shields.io/github/stars/ClinicaAlpha/DPRD-3D-MedSeg?style=flat-square&logo=github&label=Stars" alt="GitHub stars"></a>
+
+<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[ICLR 2026]** [Uni-NTFM](https://github.com/czs-ict/Uni-NTFM): A unified foundation model for EEG signal representation learning.<br>
+<a href="https://arxiv.org/pdf/2509.24222"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square" alt="Paper: arXiv"></a>
+<a href="https://github.com/czs-ict/Uni-NTFM"><img src="https://img.shields.io/badge/Code-Uni--NTFM-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: Uni-NTFM"></a>
+<a href="https://github.com/czs-ict/Uni-NTFM/stargazers"><img src="https://img.shields.io/github/stars/czs-ict/Uni-NTFM?style=flat-square&logo=github&label=Stars" alt="GitHub stars"></a>
+
+<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[WWW 2026]** [DAAO](https://github.com/AutoAgents-ai/DAAO): Difficulty-aware agentic orchestration for query-specific multi-agent workflows.<br>
+<a href="https://github.com/AutoAgents-ai/DAAO"><img src="https://img.shields.io/badge/Code-DAAO-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: DAAO"></a>
+<a href="https://github.com/AutoAgents-ai/DAAO/stargazers"><img src="https://img.shields.io/github/stars/AutoAgents-ai/DAAO?style=flat-square&logo=github&label=Stars" alt="GitHub stars"></a>
 
 <img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[ACL 2026 Main, Oral]** [KnowMeBench](https://github.com/QuantaAlpha/KnowMeBench): A benchmark for understanding people in lifelong digital companions.<br>
 <a href="https://arxiv.org/pdf/2601.04745"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square" alt="Paper: arXiv"></a>
@@ -45,7 +54,7 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 ## Recent updates
 
-- [2026] Three papers accepted to MICCAI, including two early accepts.
+- [2026] Three papers accepted to MICCAI, with one Oral and one Spotlight presentation.
 - [2026] KnowMeBench accepted to ACL Main as an Oral Presentation.
 - [2026] VIGIL accepted to ECCV.
 - [2026] One paper accepted to *Neural Networks*.
