@@ -54,6 +54,8 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 ## Recent updates
 
+- [2027] Co-organizing the [1st Latent Visual Reasoning (LVR) Workshop](https://chenliu-1996.github.io/LVR-WACV2027/) at WACV 2027. See you in Orlando!
+- [2026] Two papers accepted to EMNLP 2026: [ComfySearch](https://openreview.net/forum?id=hUJCdIbkQm) in Findings and [KnowMeBenchV2](https://openreview.net/forum?id=ZJo74s9AbP) in the Main Conference.
 - [2026] Three papers accepted to MICCAI, with one Oral and one Spotlight presentation.
 - [2026] KnowMeBench accepted to ACL Main as an Oral Presentation.
 - [2026] VIGIL accepted to ECCV.
