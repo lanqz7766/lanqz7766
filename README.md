@@ -20,11 +20,11 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 <img src="assets/icons/check-circle.svg" width="17" height="17" alt=""> Selected codebases, project pages, and recent paper highlights.
 
-<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[MICCAI 2026]** [DCD-3D-MedSeg](https://github.com/ClinicaAlpha/DCD-3D-MedSeg): Detail-consistent stage-wise distillation for efficient 3D MRI segmentation.<br>
+<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[MICCAI 2026]** [DCD-3D-MedSeg](https://github.com/ClinicaAlpha/DCD-3D-MedSeg): Detail-consistent stage-wise distillation for efficient 3D MRI segmentation (last and corresponding author).<br>
 <a href="https://github.com/ClinicaAlpha/DCD-3D-MedSeg"><img src="https://img.shields.io/badge/Code-DCD--3D--MedSeg-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: DCD-3D-MedSeg"></a>
 <a href="https://github.com/ClinicaAlpha/DCD-3D-MedSeg/stargazers"><img src="https://img.shields.io/github/stars/ClinicaAlpha/DCD-3D-MedSeg?style=flat-square&logo=github&label=Stars" alt="GitHub stars"></a>
 
-<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[MICCAI 2026]** [DPRD-3D-MedSeg](https://github.com/ClinicaAlpha/DPRD-3D-MedSeg): Displacement-preserving relational distillation for robust medical segmentation.<br>
+<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[MICCAI 2026]** [DPRD-3D-MedSeg](https://github.com/ClinicaAlpha/DPRD-3D-MedSeg): Displacement-preserving relational distillation for robust medical segmentation (last and corresponding author).<br>
 <a href="https://github.com/ClinicaAlpha/DPRD-3D-MedSeg"><img src="https://img.shields.io/badge/Code-DPRD--3D--MedSeg-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: DPRD-3D-MedSeg"></a>
 <a href="https://github.com/ClinicaAlpha/DPRD-3D-MedSeg/stargazers"><img src="https://img.shields.io/github/stars/ClinicaAlpha/DPRD-3D-MedSeg?style=flat-square&logo=github&label=Stars" alt="GitHub stars"></a>
 
@@ -55,8 +55,9 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 ## Recent updates
 
 - [2027] Co-organizing the [1st Latent Visual Reasoning (LVR) Workshop](https://chenliu-1996.github.io/LVR-WACV2027/) at WACV 2027. See you in Orlando!
+- [2026] *Time Matters* was nominated and shortlisted for the MICCAI 2026 Best Paper and Young Scientist Award.
 - [2026] Two papers accepted to EMNLP 2026: [ComfySearch](https://arxiv.org/pdf/2601.04060) in Findings (co-first author) and KnowMeBenchV2 in the Main Conference.
-- [2026] Three papers accepted to MICCAI, with one Oral and one Spotlight presentation.
+- [2026] Three papers accepted to MICCAI, with one Oral and one Spotlight presentation; last and corresponding author on DCD and DPRD.
 - [2026] KnowMeBench accepted to ACL Main as an Oral Presentation.
 - [2026] VIGIL accepted to ECCV.
 - [2026] One paper accepted to *Neural Networks*.
