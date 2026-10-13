@@ -18,7 +18,19 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 ## Recent repositories (not a publication list)
 
-<img src="assets/icons/check-circle.svg" width="17" height="17" alt=""> Selected codebases, project pages, and recent paper highlights.
+<img src="assets/icons/check-circle.svg" width="17" height="17" alt=""> Selected codebases, datasets, and recent paper highlights.
+
+<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[NeurIPS 2026 E&D, Poster]** [BrainTRACE](https://github.com/lanqz7766/BrainTRACE): A benchmark for longitudinal, multimodal, and volumetric reasoning over brain MRI (co-first author).<br>
+<a href="https://github.com/lanqz7766/BrainTRACE"><img src="https://img.shields.io/badge/Code-BrainTRACE-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: BrainTRACE"></a>
+<a href="https://huggingface.co/datasets/lanqz7766/BrainTRACE"><img src="https://img.shields.io/badge/Dataset-Hugging%20Face-ffd21e?style=flat-square&logo=huggingface&logoColor=black" alt="BrainTRACE benchmark data"></a>
+<a href="https://github.com/lanqz7766/BrainTRACE/stargazers"><img src="https://img.shields.io/github/stars/lanqz7766/BrainTRACE?style=flat-square&logo=github&label=Stars" alt="GitHub stars"></a>
+
+<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[NeurIPS 2026 E&D, Poster]** [OpenBrain](https://huggingface.co/datasets/lanqz7766/OpenBrain): An auditable whole-brain MRI parcellation dataset with 35,838 cases, generated labels, provenance, and quality-control metadata (first author).<br>
+<a href="https://huggingface.co/datasets/lanqz7766/OpenBrain"><img src="https://img.shields.io/badge/Dataset-OpenBrain-ffd21e?style=flat-square&logo=huggingface&logoColor=black" alt="Dataset: OpenBrain"></a>
+<a href="https://neurips.cc/virtual/2026/loc/atlanta/poster/139232"><img src="https://img.shields.io/badge/Conference-NeurIPS%202026-77b5d9?style=flat-square" alt="OpenBrain at NeurIPS 2026"></a>
+
+<img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[NeurIPS 2026, Poster]** [ValuSpec](https://neurips.cc/virtual/2026/loc/sydney/poster/154357): Plug-and-play candidate valuation before target verification for tree-based speculative decoding.<br>
+<a href="https://neurips.cc/virtual/2026/loc/sydney/poster/154357"><img src="https://img.shields.io/badge/Conference-NeurIPS%202026-77b5d9?style=flat-square" alt="ValuSpec at NeurIPS 2026"></a>
 
 <img src="assets/icons/sparkles.svg" width="18" height="18" alt=""> **[MICCAI 2026]** [DCD-3D-MedSeg](https://github.com/ClinicaAlpha/DCD-3D-MedSeg): Detail-consistent stage-wise distillation for efficient 3D MRI segmentation (last and corresponding author).<br>
 <a href="https://github.com/ClinicaAlpha/DCD-3D-MedSeg"><img src="https://img.shields.io/badge/Code-DCD--3D--MedSeg-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Code: DCD-3D-MedSeg"></a>
@@ -54,9 +66,10 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 ## Recent updates
 
+- [2026] Three papers accepted to NeurIPS 2026: [BrainTRACE](https://github.com/lanqz7766/BrainTRACE) and [OpenBrain](https://huggingface.co/datasets/lanqz7766/OpenBrain) in the Evaluations & Datasets Track, and [ValuSpec](https://neurips.cc/virtual/2026/loc/sydney/poster/154357). All three are Posters.
 - [2027] Co-organizing the [1st Latent Visual Reasoning (LVR) Workshop](https://chenliu-1996.github.io/LVR-WACV2027/) at WACV 2027. See you in Orlando!
 - [2026] *Time Matters* was nominated and shortlisted for the MICCAI 2026 Best Paper and Young Scientist Award.
-- [2026] Two papers accepted to EMNLP 2026: [ComfySearch](https://arxiv.org/pdf/2601.04060) in Findings (co-first author) and KnowMeBenchV2 in the Main Conference.
+- [2026] Two papers accepted to EMNLP 2026: [ComfySearch](https://arxiv.org/pdf/2601.04060) in Findings (co-first author) and KnowMeBenchV2 in the Main Conference (Oral).
 - [2026] Three papers accepted to MICCAI, with one Oral and one Spotlight presentation; last and corresponding author on DCD and DPRD.
 - [2026] KnowMeBench accepted to ACL Main as an Oral Presentation.
 - [2026] VIGIL accepted to ECCV.
