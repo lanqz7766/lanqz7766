@@ -66,6 +66,7 @@ I am currently exploring workflow-facing AI, including clinical agents, deployab
 
 ## Recent updates
 
+- [2026] Three papers accepted to [WACV 2027](https://wacv.thecvf.com/): *MedSTP*, *Do Medical VLMs Look at the Lesion?*, and *The Scope of Not*.
 - [2026] Three papers accepted to NeurIPS 2026: [BrainTRACE](https://github.com/lanqz7766/BrainTRACE) and [OpenBrain](https://huggingface.co/datasets/lanqz7766/OpenBrain) in the Evaluations & Datasets Track, and [ValuSpec](https://neurips.cc/virtual/2026/loc/sydney/poster/154357). All three are Posters.
 - [2027] Co-organizing the [1st Latent Visual Reasoning (LVR) Workshop](https://chenliu-1996.github.io/LVR-WACV2027/) at WACV 2027. See you in Orlando!
 - [2026] *Time Matters* was nominated and shortlisted for the MICCAI 2026 Best Paper and Young Scientist Award.
